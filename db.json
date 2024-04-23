@@ -1,0 +1,20 @@
+{
+    "users": [
+        {
+            "email": "proba@proba.cat",
+            "token": "2PzmdtI40Hrtf_cFfBi8a1QYWyikvzlZFAFlyiZqekM"
+        },
+        {
+            "email": "aleix@aleix.cat",
+            "token": "cj4spklJrLhggE3em_ppsr2JT6DFfnqpfhA6OCbAtTE"
+        },
+        {
+            "email": "aleix1@aleix.cat",
+            "token": "7QEf-YRkpvLANxJrrdStCaA27jv5HRGHQ7p2CXBqU38"
+        },
+        {
+            "email": "aleix2@aleix.cat",
+            "token": "wBhshqMhGOFoGkTQ2rPiADHel8o9aXgPZIsk35e52Cc"
+        }
+    ]
+}
