@@ -1,1 +1,0 @@
-# Wlcome to the autenthication api repository
